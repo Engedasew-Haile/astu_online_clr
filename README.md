@@ -1,4 +1,4 @@
-Online Clearance System for Adama Science and Technology University for Students and Terminated Staff
+Online Clearance System for Adama Science and Technology University for Students and Terminated Staff . . .
 ‌
 
 This is a comprehensive http://README.md file for the Online Clearance System for University Students.
