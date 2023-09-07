@@ -58,4 +58,4 @@ If students have any questions about the Online Clearance System, they can conta
 Licence
 The Online Clearance System is licensed under the ASTU License.
 
-This is just a sample http://README.md file, and you may need to customize it to fit the specific needs of your online clearance system. However, this should give you a good starting point.
+This is just a sample http://README.md file, and you may need to customize it to fit the specific needs of your online clearance system. However, this should give you a good starting point...
