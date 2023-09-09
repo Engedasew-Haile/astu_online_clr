@@ -231,7 +231,8 @@ error_reporting(E_ALL);
 			<li><a href="pages/about_us.php">About Us</a></li>
 			<li class="last"><a href="pages/useful_links.php">Useful Links</a>
 	  </li>
-	  <!--<marquee id#="hometext" scrolldelay="200"> Adama Science and Technology University, Online Clearance System For Graduated Student's and Terminated Staff.</marquee> -->
+	  <!--<marquee id#="hometext" scrolldelay="100 style="color:yellow;text-align:bottom;font-size:17px;padding:10px"> 
+		Adama Science and Technology University, Online Clearance System For Graduated Student's and Terminated Staff.</marquee> -->
     </ul>
   </div>
 </div>
