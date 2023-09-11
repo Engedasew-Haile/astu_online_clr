@@ -224,7 +224,7 @@ Engedasew Haile
 	<p>P.O.BOX: 1015 Debre Zite, Ethiopian</p>
 	<p><a href="https://www.linkedin.com/in/engedasew-haile-1306a193/"> LinkedIn Address:- https://www.linkedin.com/in/engedasew-haile-1306a193/</a></p>
 	<p><a href="https://github.com/Engedasew-Haile/">Github Address:- https://github.com/Engedasew-Haile/</a></p>
-	<p><a href="https://twitter.com/abulecisco">Twitter Address:- https://github.com/Engedasew-Haile/</a></p>
+  <p><a href="https://twitter.com/abulecisco">Twitter Address:- https://twitter.com/abulecisco </a></p>
 	<p><a href="engedasewhaile@gmail.com">Email:- e-mail: engedasewhaile@gmail.com</a></p>
 
     </div>
