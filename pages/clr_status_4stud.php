@@ -116,7 +116,7 @@ Engedasew Haile
       <li><a href="astu_events.php">ASTU Events</a>
       </li>
       <li><a href="about_us.html">About Us</a></li>
-      <li class="last"><a href="useful_links.html">Useful Links</a></li>
+      <li class="last"><a href="useful_links.php">Useful Links</a></li>
     </ul>
   </div>
 </div>

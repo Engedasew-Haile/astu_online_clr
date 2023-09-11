@@ -130,7 +130,7 @@ Engedasew Haile Ext.Cs/4815/05
 			<li ><a href="astu_events.php">ASTU Events</a>
 		</li>
 		
-			<li class="last"><a href="useful_links.html">Useful Links</a>
+			<li class="last"><a href="useful_links.php">Useful Links</a>
 		</li>
     </ul>
   </div>

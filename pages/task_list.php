@@ -103,7 +103,7 @@ By
         <li class="last"></li>
 			<li><a id="slideit" href="index.php">Search</a></li> 
 	<!--	<li><a href="user_detail.php">Add Detail</a></li>		-->
-			<li><a href="#">Log Out</a></li>
+			<li><a href="log_out.php">Log Out</a></li>
       </ul>
       <p>Tel: +251-123-456 | Mail: info@astu-clr.edu.et</p>
     </div>
