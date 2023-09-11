@@ -216,6 +216,16 @@ Engedasew Haile
 	<li>Document my progress throughout the project. This will help me to remember what I have done and to track my progress.</li>
 	<li>Present my project in a professional way. This will help me to make a good impression on potential employers.</li>
 
+  <br>
+	<h6>Personal Address</h6>
+	<p>Address: Addis Ababa(Debre Zite), Ethiopia</p>
+	<p>Phone: +251-912-298-277</p>
+	<p>Optional: +251-974-717-557</p>
+	<p>P.O.BOX: 1015 Debre Zite, Ethiopian</p>
+	<p><a href="https://www.linkedin.com/in/engedasew-haile-1306a193/"> LinkedIn Address:- https://www.linkedin.com/in/engedasew-haile-1306a193/</a></p>
+	<p><a href="https://github.com/Engedasew-Haile/">Github Address:- https://github.com/Engedasew-Haile/</a></p>
+	<p><a href="https://twitter.com/abulecisco">Twitter Address:- https://github.com/Engedasew-Haile/</a></p>
+	<p><a href="engedasewhaile@gmail.com">Email:- e-mail: engedasewhaile@gmail.com</a></p>
 
     </div>
     <div class="clear"></div>
