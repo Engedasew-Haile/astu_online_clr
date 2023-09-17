@@ -70,7 +70,7 @@ This is just a sample http://README.md file, and you may need to customize it to
 
 
 
-I developed this project only, so here is my LinkedIn, github and Twitter profile
+I developed this project only, so here is my LinkedIn, github and Twitter profile.
 
 LinkedIn
 https://www.linkedin.com/in/engedasew-haile-1306a193/
