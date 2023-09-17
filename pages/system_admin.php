@@ -95,7 +95,7 @@ Engedasew Haile
         <li class="last"></li>
 			<li><a id="slideit" href="../index.php">Search</a></li> 
 			
-			<li><a href="../index.php">Log Out</a></li>
+			<li><a href="../log_out.php">Log Out</a></li>
       </ul>
       <p>Tel: Tel: +251-123-456 | Mail: info@astu-clr.edu.et</p>
     </div>

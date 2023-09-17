@@ -144,19 +144,20 @@ error_reporting(E_ALL);
       </div>
 	  
 	  <div id="slidboxtxt">
-	   <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. 
-		Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. 
-		Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.
+	  <p>It is one of known higher institution in the country due to the ability to hold more than
+	thousands students at this time and many facilities. Nowadays so many activities have been done with in
+	campus manually. From these activates, student and Admin-Staff clearance process, is the one which is
+	undertaken in order to make the both clear from any university’s property or tangible possession that is owned
+	by someone.
 		<br>
 		<br>
-		Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. 
-		Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. 
-		Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.
+		Clearance is a status of granted individuals, typically members of some organization such as Employees 
+		of private or Government organization, University graduates or failure student and others, allowing them 
+		access to confidential information, a clearance by itself is normally not sufficient to gain access.
 		<br>
 		<br>
-		Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. 
-		Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. 
-		Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
+		The organization must determine that the clearance individual has a “need to know” the information. 
+		Clearance is the process of determining and negotiating any permission that are needed to clear use of someone else’s.</p>
 		</div>
       <br class="clear" />
 	  </div>	  
@@ -230,7 +231,8 @@ error_reporting(E_ALL);
 			<li><a href="pages/about_us.php">About Us</a></li>
 			<li class="last"><a href="pages/useful_links.php">Useful Links</a>
 	  </li>
-	  <!--<marquee id#="hometext" scrolldelay="200"> Adama Science and Technology University, Online Clearance System For Graduated Student's and Terminated Staff.</marquee> -->
+	  <!--<marquee id#="hometext" scrolldelay="100 style="color:yellow;text-align:bottom;font-size:17px;padding:10px"> 
+		Adama Science and Technology University, Online Clearance System For Graduated Student's and Terminated Staff.</marquee> -->
     </ul>
   </div>
 </div>

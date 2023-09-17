@@ -354,19 +354,22 @@ if($_POST['userp_key'] != $_POST['cuserp_key'])
 		
 					<div class="form-group">
 						<label for="name">Email:</label>
-						<input type="text" name="email" placeholder="Email" required value="<?php echo $_GET['email'];?> "class="form-control" />
+				<!--	<input type="text" name="email" placeholder="Email" required value="<?php echo $_GET['email'];?> "class="form-control" /> 	-->
+						<input type="text" name="email" placeholder="Email" required value="" class="form-control" />
 						<span class="text-danger"><?php if (isset($email_error)) echo $email_error; ?></span>
 					</div>
 			
 					<div class="form-group">
 						<label for="name">Password:</label>
-						<input type="text" name="userp_key" value="<?php echo $_GET['userp_key'];?>" required class="form-control" />
+				<!--<input type="text" name="userp_key" value="<?php echo $_GET['userp_key'];?>" required class="form-control" /> -->
+							<input type="text" name="userp_key" placeholder="PassKey" required value="" class="form-control" />
 						<span class="text-danger"><?php if (isset($userp_key_error)) echo $userp_key_error; ?></span>
 					</div>
 			
 					<div class="form-group">
 						<label for="name">Confirm Password</label>
-						<input type="text" name="cuserp_key" value="<?php echo $GET['cuserp_key']; ?>" required class="form-control" />
+				<!--	<input type="text" name="cuserp_key" value="<?php echo $GET['cuserp_key']; ?>" required class="form-control" /> 	-->
+						<input type="text" name="cuserp_key" placeholder="ConfirmPassword" required value="" class="form-control"/>
 						<span class="text-danger"><?php if (isset($cuserp_key_error)) echo $cuserp_key_error; ?></span>
 					</div>
 
