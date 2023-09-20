@@ -89,8 +89,7 @@ $successmsg = "Successfully Registered! <a href='../index.php'>Click here to Hom
 <!--
 Adama Science and Technology University.
 School of Electrical Engineering and Computing,
-Department of Computing
-Graduate Class Of 2017
+
 By
 Engedasew Haile 
 
