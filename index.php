@@ -293,7 +293,13 @@ error_reporting(E_ALL);
   <div id="copyright">
     <p class="fl_left">Copyright &copy; <?php echo date('Y'); ?> - All Rights Reserved - <a href="#">ASTU_Online-Clr-Sys</a></p>
     <br class="clear" />
-	<p class="f1_left">By:- Engedasew Haile, ALX 2023 SE Setudent</p>
+	<p class="f1_left"> By:- Engedasew Haile, ALX-Holberton-Software-Engineering Student
+		<ul>
+		<li><a href="https://github.com/Engedasew-Haile/astu_online_clr.git">Github:</a><br></li>
+		<li><a href="https://www.linkedin.com/in/engedasew-haile-1306a193/">LinkedIn:</a><br></li>
+		<li><a href="https://twitter.com/abulecisco">Twitter profile:</a></li>
+		</ul>
+	</p>
   </div>
 </div>
 </body>
