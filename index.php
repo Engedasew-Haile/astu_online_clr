@@ -291,8 +291,9 @@ error_reporting(E_ALL);
 <!-- ####################################################################################################### -->
 <div class="wrapper col6">
   <div id="copyright">
-    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">ASTU_Online-Clr-Sys</a></p>
+    <p class="fl_left">Copyright &copy; <?php echo date('Y'); ?> - All Rights Reserved - <a href="#">ASTU_Online-Clr-Sys</a></p>
     <br class="clear" />
+	<p class="f1_left">By:- Engedasew Haile, ALX 2023 SE Setudent</p>
   </div>
 </div>
 </body>
