@@ -13,8 +13,7 @@ if(!(isset($_SESSION['name']) and  $_SESSION['user_role']=="acad_staff"))
 <!--
 Adama Science and Technology University.
 School of Electrical Engineering and Computing,
-Department of Computing
-Graduate Class Of 2017
+
 By
 Engedasew Haile
 -->

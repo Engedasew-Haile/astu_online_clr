@@ -20,14 +20,10 @@ if(!(isset($_SESSION['name']) and  $_SESSION['user_role']=="acad_staff" ||
 <!--
 Adama Science and Technology University.
 School of Electrical Engineering and Computing,
-Department of Computing
-Graduate Class Of 2017
+
 By
-1. Afiyat Jemal Ext.Cs/2414/06
-2. Aynalem Fantahun Ext.Cs/8361/05
-3. Bizuayhu Abera Ext.Cs/2435/06
-4. Engedasew Haile Ext.Cs/4815/05
-5. Gebi Hule Ext.Cs/8311/05
+Engedasew Haile Ext.Cs/4815/05
+
 -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
