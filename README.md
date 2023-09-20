@@ -1,3 +1,5 @@
+
+Project Name
 Online Clearance System for Adama Science and Technology University for Students and Terminated Staff . . .
 ‌
 
@@ -11,6 +13,11 @@ Track the status of their clearances in real time.
 Receive notifications when their clearances are approved or denied.
 Easily upload required documentation.
 The Online Clearance System is easy to use and secure. All of the student's and terminated data is protected by encryption and the support team is available to help with any questions.
+
+
+OR
+An online clearance system is an internet-based study initiative that will help facilitate the queuing system in the clearance process of the university. The online clearance system can provide an efficient handling of information that is very easy for universities to use since it is internet-based and can be viewed from anywhere and at any time.
+
 
 Features
 The Online Clearance System has the following features:
@@ -59,3 +66,18 @@ Licence
 The Online Clearance System is licensed under the ASTU License.
 
 This is just a sample http://README.md file, and you may need to customize it to fit the specific needs of your online clearance system. However, this should give you a good starting point...
+
+
+
+
+I developed this project only, so here is my LinkedIn, github and Twitter profile.
+
+LinkedIn
+https://www.linkedin.com/in/engedasew-haile-1306a193/
+
+Github
+https://github.com/Engedasew-Haile/astu_online_clr
+
+Twitter profile
+https://twitter.com/abulecisco
+
